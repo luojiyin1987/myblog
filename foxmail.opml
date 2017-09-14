@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title/>
+	</head>
+	<body>
+		<outline title="Linux" text="Linux">
+			<outline htmlUrl="https://missingm.co" xmlUrl="https://missingm.co/atom.xml" version="RSS" type="rss" title="MissingM" text="MissingM"/>
+			<outline htmlUrl="https://coolshell.cn" xmlUrl="http://coolshell.cn/feed" version="RSS" type="rss" title="酷 壳 – CoolShell.cn" text="酷 壳 – CoolShell.cn"/>
+			<outline htmlUrl="http://blog.creke.net" xmlUrl="http://feed.creke.net/" version="RSS" type="rss" title="Creke Blog | 梦溪博客" text="Creke Blog | 梦溪博客"/>
+			<outline htmlUrl="http://kaichen.github.io/" xmlUrl="http://thekaiway.com/atom.xml" version="RSS" type="rss" title="The Kai Way" text="The Kai Way"/>
+			<outline htmlUrl="http://blog.codinglabs.org" xmlUrl="http://blog.codinglabs.org/rss.xml" version="RSS" type="rss" title="CodingLabs" text="CodingLabs"/>
+			<outline htmlUrl="http://blog.yufeng.info" xmlUrl="http://blog.yufeng.info/feed" version="RSS" type="rss" title="系统技术非业余研究" text="系统技术非业余研究"/>
+			<outline htmlUrl="http://blog.opskumu.com/" xmlUrl="http://blog.opskumu.com/feed.xml" version="RSS" type="rss" title="Kumu's Blog" text="Kumu's Blog"/>
+			<outline htmlUrl="http://www.gentoo.org.cn/" xmlUrl="http://www.gentoo.org.cn/feed.xml" version="RSS" type="rss" title="Gentoo 中文社区" text="Gentoo 中文社区"/>
+			<outline htmlUrl="http://www.commandlinefu.com/feed/tenup" xmlUrl="http://www.commandlinefu.com/feed/tenup" version="RSS" type="rss" title="Commands with 10 up-votes" text="Commands with 10 up-votes"/>
+			<outline htmlUrl="https://www.networkworld.com" xmlUrl="http://www.networkworld.com/blog/linux-tycoon/index.rss" version="RSS" type="rss" title="Network World Linux Tycoon" text="Network World Linux Tycoon"/>
+			<outline htmlUrl="https://www.tanglei.name/" xmlUrl="http://www.tanglei.name/feed.xml" version="RSS" type="rss" title="tanglei's blog|唐磊的个人博客" text="tanglei's blog|唐磊的个人博客"/>
+			<outline htmlUrl="http://orangleliu.info/" xmlUrl="http://orangleliu.info/atom.xml" version="RSS" type="rss" title="Orangleliu Notes" text="Orangleliu Notes"/>
+			<outline htmlUrl="http://jvns.ca" xmlUrl="http://jvns.ca/atom.xml" version="RSS" type="rss" title="Julia Evans" text="Julia Evans"/>
+			<outline htmlUrl="http://peter-hoffmann.com" xmlUrl="http://peter-hoffmann.com/feed/atom.xml" version="RSS" type="rss" title="Peter Hoffmann" text="Peter Hoffmann"/>
+			<outline htmlUrl="http://opjasee.com" xmlUrl="http://opjasee.com/pages/rss.xml" version="RSS" type="rss" title="单线程" text="单线程"/>
+			<outline htmlUrl="https://linuxtoy.org/" xmlUrl="https://linuxtoy.org/feeds/all.atom.xml" version="RSS" type="rss" title="LinuxTOY" text="LinuxTOY"/>
+			<outline htmlUrl="http://yosefk.com/blog" xmlUrl="http://yosefk.com/blog/feed" version="RSS" type="rss" title="Proper Fixation" text="Proper Fixation"/>
+			<outline htmlUrl="http://www.geekonomics10000.com" xmlUrl="http://www.geekonomics10000.com/feed" version="RSS" type="rss" title="学而时嘻之" text="学而时嘻之"/>
+			<outline htmlUrl="https://ninjadevops.com/" xmlUrl="http://ninjadevops.com/feed.xml" version="RSS" type="rss" title="Ninjia DevOps" text="Ninjia DevOps"/>
+			<outline htmlUrl="https://nickcraver.com/blog" xmlUrl="https://nickcraver.com/blog/feed.xml" version="RSS" type="rss" title="Nick Craver" text="Nick Craver"/>
+			<outline htmlUrl="https://blogs.technet.microsoft.com/markrussinovich" xmlUrl="https://blogs.technet.microsoft.com/markrussinovich/feed/" version="RSS" type="rss" title="Mark's Blog" text="Mark's Blog"/>
+			<outline htmlUrl="http://gank.io" xmlUrl="http://gank.io/feed" version="RSS" type="rss" title="干货集中营" text="干货集中营"/>
+		</outline>
+		<outline htmlUrl="http://chenyufei.info/" xmlUrl="http://chenyufei.info/atom.xml" version="RSS" type="rss" title="Random Tech Thoughts" text="Random Tech Thoughts"/>
+		<outline title="前端" text="前端">
+			<outline htmlUrl="http://jsfeeds.com" xmlUrl="http://jsfeeds.com/feed" version="RSS" type="rss" title="JSFeeds" text="JSFeeds"/>
+			<outline htmlUrl="https://lewis617.github.io/" xmlUrl="https://lewis617.github.io/atom.xml" version="RSS" type="rss" title="Lewis617的个人博客" text="Lewis617的个人博客"/>
+			<outline htmlUrl="http://www.alloyteam.com" xmlUrl="http://www.alloyteam.com/feed/" version="RSS" type="rss" title="AlloyTeam" text="AlloyTeam"/>
+		</outline>
+		<outline title="python" text="python">
+			<outline htmlUrl="https://www.keakon.net/" xmlUrl="https://www.keakon.net/feed" version="RSS" type="rss" title="keakon的涂鸦馆" text="keakon的涂鸦馆"/>
+			<outline htmlUrl="http://blog.lilydjwg.me/" xmlUrl="http://blog.lilydjwg.me/feed" version="RSS" type="rss" title="依云's Blog" text="依云's Blog"/>
+			<outline htmlUrl="http://planetpython.org/" xmlUrl="http://planetpython.org/rss20.xml" version="RSS" type="rss" title="Planet Python" text="Planet Python"/>
+			<outline htmlUrl="/cnhttp://mingxinglai.com/cn" xmlUrl="http://mingxinglai.com/cn/feed.xml" version="RSS" type="rss" title="好一个淳朴的农民" text="好一个淳朴的农民"/>
+			<outline htmlUrl="https://semaphoreci.com/community/tutorials" xmlUrl="https://semaphoreci.com/community/tutorials.atom" version="RSS" type="rss" title="Semaphore CI Community Tutorials" text="Semaphore CI Community Tutorials"/>
+			<outline htmlUrl="https://www.rapospectre.com" xmlUrl="https://www.rapospectre.com/rss.xml" version="RSS" type="rss" title="RaPoSpectre 的技术博客" text="RaPoSpectre 的技术博客"/>
+			<outline htmlUrl="http://www.dongwm.com/" xmlUrl="http://www.dongwm.com/atom.xml" version="RSS" type="rss" title="小明明s à domicile" text="小明明s à domicile"/>
+			<outline htmlUrl="http://blog.csdn.net/lanphaday" xmlUrl="http://blog.csdn.net/gzlaiyonghao/rss/list" version="RSS" type="rss" title="赖勇浩的编程私伙局" text="赖勇浩的编程私伙局"/>
+			<outline htmlUrl="http://python-cn.org:80/category/3" xmlUrl="http://python-cn.org/category/3.rss" version="RSS" type="rss" title="Python相关技术主题" text="Python相关技术主题"/>
+			<outline htmlUrl="http://www.icnws.com/" xmlUrl="http://www.icnws.com/atom.xml" version="RSS" type="rss" title="城南往事的博客" text="城南往事的博客"/>
+			<outline htmlUrl="http://quinnchen.me/" xmlUrl="http://quinnchen.me/atom.xml" version="RSS" type="rss" title="Quinn Note" text="Quinn Note"/>
+			<outline htmlUrl="http://zmrenwu.com/" xmlUrl="http://zmrenwu.com/all/rss/" version="RSS" type="rss" title="追梦人物的博客" text="追梦人物的博客"/>
+		</outline>
+		<outline title="windows" text="windows">
+			<outline htmlUrl="http://helpdeskgeek.com" xmlUrl="http://helpdeskgeek.com/feed/" version="RSS" type="rss" title="Help Desk Geek" text="Help Desk Geek"/>
+		</outline>
+		<outline htmlUrl="https://github.com/luojiyin1987" xmlUrl="https://github.com/luojiyin1987.private.atom?token=AGOQMd5Qkn2qFNfBYvjqwyCz1tBo5VSuks63GtwewA==" version="RSS" type="rss" title="Private Feed for luojiyin1987" text="Windows Blog"/>
+		<outline title="github" text="github">
+			<outline htmlUrl="" xmlUrl="" version="RSS" type="rss" title="" text="Private Feed for luojiyin1987"/>
+		</outline>
+	</body>
+</opml>
