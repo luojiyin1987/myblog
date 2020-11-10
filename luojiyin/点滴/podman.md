@@ -33,10 +33,10 @@ podman支持在非root用户下运行，这需要配置/etc/subuid 和 /etc/subg
 
  /etc/containers/registries.conf 增加配置
 
-
+```js
 unqualified-search-registries = ["docker.io"]
 [[registry]]
 prefix = "docker.io"
 location = "uyah70su.mirror.aliyuncs.com"
-
+```
 使用阿里云的源
